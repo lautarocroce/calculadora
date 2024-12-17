@@ -1,0 +1,167 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2024-12-08T05:14:06Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/748911033",
+        "bridge": "yes",
+        "bridge:structure": "beam",
+        "layer": "1",
+        "man_made": "bridge"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -104.8356946,
+              38.8275801
+            ],
+            [
+              -104.8351823,
+              38.827438
+            ],
+            [
+              -104.8349689,
+              38.8283464
+            ],
+            [
+              -104.8349168,
+              38.8285684
+            ],
+            [
+              -104.835244,
+              38.8286541
+            ],
+            [
+              -104.8354344,
+              38.828746
+            ],
+            [
+              -104.8356946,
+              38.8275801
+            ]
+          ]
+        ]
+      },
+      "id": "way/748911033"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/41695477",
+        "bicycle": "no",
+        "hgv": "designated",
+        "highway": "motorway",
+        "lanes": "3",
+        "maxspeed": "65 mph",
+        "name": "Pan American Freeway",
+        "oneway": "yes",
+        "ref": "I 25",
+        "source:maxspeed": "survey",
+        "tiger:cfcc": "A19",
+        "tiger:county": "Bernalillo, NM",
+        "tiger:name_base": "I-25",
+        "tiger:name_base_1": "Pan American",
+        "tiger:name_type_1": "Fwy",
+        "unsigned_ref": "US 85"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.6359894,
+            35.0855053
+          ],
+          [
+            -106.635664,
+            35.087212
+          ],
+          [
+            -106.635594,
+            35.087603
+          ],
+          [
+            -106.635456,
+            35.0880985
+          ],
+          [
+            -106.635216,
+            35.088961
+          ],
+          [
+            -106.6350922,
+            35.0893298
+          ],
+          [
+            -106.6345574,
+            35.0909233
+          ]
+        ]
+      },
+      "id": "way/41695477"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/176242434",
+        "bicycle": "no",
+        "destination": "Lomas Boulevard;Menaul Boulevard;Candelaria Boulevard",
+        "highway": "motorway_link",
+        "junction:ref": "225",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.6359894,
+            35.0855053
+          ],
+          [
+            -106.6358384,
+            35.0858702
+          ],
+          [
+            -106.6357105,
+            35.086195
+          ],
+          [
+            -106.6356504,
+            35.0863921
+          ],
+          [
+            -106.635579,
+            35.0866109
+          ]
+        ]
+      },
+      "id": "way/176242434"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/987073985",
+        "power": "minor_line"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.6365334,
+            35.0857989
+          ],
+          [
+            -106.6354383,
+            35.0856555
+          ]
+        ]
+      },
+      "id": "way/987073985"
+    }
+  ]
+}
